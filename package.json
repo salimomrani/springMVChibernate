@@ -1,0 +1,19 @@
+{
+  "name": "springmvchibernate",
+  "version": "1.0.0",
+  "description": "spring mvc with hibernate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omrani salim",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "gulp": "^3.9.1",
+    "sweetalert2": "^7.1.0"
+  },
+  "devDependencies": {
+    "jquery": "^3.2.1"
+  }
+}
