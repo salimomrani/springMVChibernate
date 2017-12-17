@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "jquery": "^3.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salimomrani/springMVChibernate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/salimomrani/springMVChibernate/issues"
+  },
+  "homepage": "https://github.com/salimomrani/springMVChibernate#readme"
 }
